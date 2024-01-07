@@ -1,2 +1,2 @@
 # server
-api rest server using tokio
+api rest server using actix-web
