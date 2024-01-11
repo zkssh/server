@@ -1,2 +1,2 @@
 # server
-api rest server using actix-web
+api rest ocr server using actix-web
